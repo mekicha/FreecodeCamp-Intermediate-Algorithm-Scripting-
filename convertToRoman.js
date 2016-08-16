@@ -1,3 +1,7 @@
+/*** Convert the given number into a roman numeral.
+**** All roman numerals answers should be provided in upper-case.
+***/
+
 function convertToRoman(num) {
   var lookup = { M : 1000,
                 CM : 900, 
